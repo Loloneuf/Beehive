@@ -1,3 +1,3 @@
-# Beehive
+# BeeHive
 
-[![Robot structure](Media/image/hive.jpg)]
+[![Hive Design](Media/image/Hive.JPG)]
