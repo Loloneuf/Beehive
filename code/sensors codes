@@ -55,7 +55,7 @@ void setup() {
   dht.begin();
 }
 void loop() {
-  h = dht.readHumidity();//on lit l'hygrometrie
+  h = dht.readHumidity();//on lit l'hydrometrie
   t = dht.readTemperature();//on lit la temperature en celsius (par defaut)
   sensors.requestTemperatures(); 
   temperature = sensors.getTempCByIndex(0); //gets the temp data
