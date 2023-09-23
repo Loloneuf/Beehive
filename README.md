@@ -5,7 +5,9 @@ This project aimed to build a connected hive that would work with solar energy, 
 <p align="center">
 <img  src="Media/image/Hive.JPG" width="300" height="300"/>
 </p>
+<p align="center">
 Global design of the hive 
+</p>
 
 <p align="center">
 <img src="Media/image/Intern.JPG" width="300" height="300"/>
