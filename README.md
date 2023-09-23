@@ -1,8 +1,8 @@
 # BeeHive
-<p>
+<figure>
 <img src="Media/image/Hive.JPG" width="200" height = "200">
-<em>Global design of the hive</em>
-</p>
+<figcaption>Global design of the hive</figcaption>
+</figure>
 <img src="Media/image/Intern.JPG" width="200" height = "200">
 <em>Internal design of the hive</em>
 <img src="Media/image/Scale.JPG" width="200" height = "200">
